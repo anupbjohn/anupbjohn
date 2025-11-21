@@ -7,15 +7,11 @@ I design, automate, and maintain scalable infrastructure on AWS using Terraform 
 
 ## 🔧 Tech Stack & Skills
 ### **Cloud & Infrastructure**
-- Amazon Web Services (AWS)
-- EC2, ECS, VPC, ALB/NLB, Route53, CloudFront
-- RDS, S3, Lambda, IAM, CloudWatch
-- AWS CloudHSM
+- AWS (EC2, ECS, VPC, ALB/NLB, Route53, CloudFront, RDS, S3, Lambda, IAM, CloudWatch, AWS CloudHSM, System Manager ...)
+- GCP (IAM, KMS)
 
 ### **IaC & Automation**
 - Terraform (Modules, reusable architecture)
-- GitHub Actions
-- YAML-based CI/CD workflows
 - Infrastructure design & cost optimization
 
 ### **DevOps & Build/Release**
