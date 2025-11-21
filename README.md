@@ -39,13 +39,6 @@ I design, automate, and maintain scalable infrastructure on AWS using Terraform 
 - **Web Hosting Setup** – Linux + IIS hosting examples
 - **CloudHSM/Code Signing Integrations**
 - **Automation Scripts** – Bash, PowerShell, system automation
-
-
-
----
-
-
-
 ---
 
 ## 📫 Contact
